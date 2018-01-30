@@ -6,7 +6,7 @@
 * Installatie van Ubuntu
 * Installatie mislukte
   * Bleek aan UEFI Boot te liggen
-  * Opgelost door legacy boot te gebruiken
+  * Opgelost door Legacy boot te gebruiken
 
 ### Dinsdag
 * Harde schijf mounten
