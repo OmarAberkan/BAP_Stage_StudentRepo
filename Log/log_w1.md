@@ -7,6 +7,13 @@
 * Installatie mislukte
   * Bleek aan UEFI Boot te liggen
   * Opgelost door Legacy boot te gebruiken
+* Verbinding maken met netwerk van Altas Copco
+  * Alleen nog geen toegang to e-mail
+* Kennismaking met Yocto
+ * Documentatie
+ * Boeken
+    
+ 
 
 ### Dinsdag
 * Harde schijf mounten
