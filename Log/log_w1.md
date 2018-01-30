@@ -19,3 +19,4 @@
 * Harde schijf mounten
 * Clonen van ACOS 2.0 repo van BitBucket
 * oh-my-zsh installeren
+* tmux installeren
