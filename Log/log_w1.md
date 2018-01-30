@@ -20,3 +20,6 @@
 * Clonen van ACOS 2.0 repo van BitBucket
 * oh-my-zsh installeren
 * tmux installeren
+* Leren werken met Linux Commands
+* Leren werken met tmux en vim
+
