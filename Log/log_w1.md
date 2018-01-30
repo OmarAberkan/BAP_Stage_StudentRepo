@@ -24,5 +24,6 @@
 * tmux installeren
 * Leren werken met Linux Commands
 * Leren werken met tmux en vim
+* Acos 2.0 builden
 
 
