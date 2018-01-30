@@ -10,8 +10,8 @@
 * Verbinding maken met netwerk van Altas Copco
   * Alleen nog geen toegang to e-mail
 * Kennismaking met Yocto
- * Documentatie
- * Boeken
+  * Documentatie
+  * Boeken
     
  
 
