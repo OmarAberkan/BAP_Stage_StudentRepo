@@ -1,12 +1,14 @@
-# Logboek Week #1 (30/1/16 - 3/1/16)
+# Logboek Week #1 (29/01/18 - 4/02/18)
 ### Maandag
-* Goede progressie
-* Probleem x opgelost
-  * Bleek aan module Y te liggen
+* Kennismaking
+* Introductie
+* Laptop formateren
+* Installatie van Ubuntu
+* Installatie mislukte
+  * Bleek aan UEFI Boot te liggen
+  * Opgelost door legacy boot te gebruiken
 
 ### Dinsdag
-* Trage vooruitgang
-* Probleem x toch niet opgelost
-  * Geprobeerd module z aan te passen
-  * Geprobeerd om techniek i te verbeteren
-  * Stagementor gaf tip om x anders aan te pakken
+* Harde schijf mounten
+* Clonen van ACOS 2.0 repo van BitBucket
+* oh-my-zsh installeren
