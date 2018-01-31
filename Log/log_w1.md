@@ -12,11 +12,14 @@
 * Kennismaking met Yocto
   * Documentatie
   * Boeken
+* Tutorial volgen van Yocto 1.7.1 uit boek
+  * Niet gelukt om te builden
   
     
  
 
 ### Dinsdag
+
 * Harde schijf mounten
 * Clonen van ACOS 2.0 repo van BitBucket
 * SSH Instellen
