@@ -36,9 +36,9 @@
 * Configureren van dns-masq
 * Instellen van statische ip-address
 * Builden van ACOS 2.0
- * Gelukt
+  * Gelukt
 * Installeren van ACOS 2.0 via NFS
- * Gelukt
+  * Gelukt
  ### Donderdag
  * Verplaatst naar 09/02
 
