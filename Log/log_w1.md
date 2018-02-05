@@ -19,7 +19,8 @@
  
 
 ### Dinsdag
-
+* Tutorial nog steeds niet gelukt
+ * Begeleider stelt voor om te beginnen met ACOS 2.0
 * Harde schijf mounten
 * Clonen van ACOS 2.0 repo van BitBucket
 * SSH Instellen
@@ -28,14 +29,17 @@
 * Leren werken met Linux Commands
 * Leren werken met tmux en vim
 * Acos 2.0 builden
+  * Builden niet gelukt
   
 ### Woensdag
-
 * Configureren van nfs-server
 * Configureren van dns-masq
 * Instellen van statische ip-address
 * Builden van ACOS 2.0
-* Installeren van ACOS 2.0
-
+ * Gelukt
+* Installeren van ACOS 2.0 via NFS
+ * Gelukt
+ ### Donderdag
+ * Verplaatst naar 09/02
 
 
