@@ -1,4 +1,4 @@
-# Logboek Week #2 (05/02/18 - 11/02/18)
+ Logboek Week #2 (05/02/18 - 11/02/18)
 ### Maandag
 * Toegang tot e-mail gekregen
 *  Departement Meeting
@@ -14,4 +14,19 @@
    * Uiteindelijk gelukt om te installeren
   
 * Aanmaken van directories in appfs
+
+### Dinsdag
+* Overlay toepassen in init.sh bestand
+   * Code opschonen
+   * Directories aanmaken
+   * Alles mounten
+* Image builden
+  * Fout melding
+  * Kunnen oplossen door licentie te veranderen
+* Image installeren
+   * Installatie mislukt
+   * Opgelost door: 
+      * dnsmasq te herstarten
+      * Code op te schonen
+
   
