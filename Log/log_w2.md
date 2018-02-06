@@ -9,9 +9,9 @@
 * Introductie overlay
   * Lezen van documentatie
 * Weer nieuwe image gekregen
-  * Alles moest weer aangepast worden
-  * Veel fouten zijn opgedoken
-  * Uiteindelijk gelukt om te installeren
+   * Alles moest weer aangepast worden
+   * Veel fouten zijn opgedoken
+   * Uiteindelijk gelukt om te installeren
   
 * Aanmaken van directories in appfs
   
