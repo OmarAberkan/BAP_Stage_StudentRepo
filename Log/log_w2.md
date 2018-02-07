@@ -34,6 +34,7 @@
 * Toegang tot slack gekregen
 
 ### Woensdag
+* Aanpassen van kernel om overlay in te schakelen
 
 
   
