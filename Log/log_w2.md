@@ -33,8 +33,13 @@
 * wget gebruiken voor een bestand op te halen van de http server tijdens het booten
 * Toegang tot slack gekregen
 
-### Woensdag
-* Aanpassen van kernel om overlay in te schakelen
-* Loopt vast tijdens poging nieuwe installatie
+### Woensdag -> Vroeger weg om naar Jobmatch ICT te gaan voor professionalisering
+* Overlay werd niet herkend door het systeem
+* Instellen van overlay in de kernel met behulp van CONFIG_OVERLAY_FS
+* Opnieuw image builden en installeren
+   * Loopt vast tijdens poging nieuwe installatie
+   * Kunnen oplossen door de kernel te upgraden
+  
+
 
   
