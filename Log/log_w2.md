@@ -35,6 +35,6 @@
 
 ### Woensdag
 * Aanpassen van kernel om overlay in te schakelen
-
+* Loopt vast tijdens poging nieuwe installatie
 
   
