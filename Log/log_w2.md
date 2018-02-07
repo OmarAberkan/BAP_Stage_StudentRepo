@@ -29,8 +29,11 @@
       * dnsmasq te herstarten
       * Code op te schonen
 * Configureren van interface
-* Http server runnen door gebruik te maken van een python scrypt
+* Http server runnen door gebruik te maken van een python scrypt 
 * wget gebruiken voor een bestand op te halen van de http server tijdens het booten
+* Toegang tot slack gekregen
+
+### Woensdag
 
 
   
